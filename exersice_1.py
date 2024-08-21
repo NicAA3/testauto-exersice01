@@ -20,7 +20,8 @@ print("Please select operation -\n" \
 		"1. Add\n" \
 		"2. Subtract\n" \
 		"3. Multiply\n" \
-		"4. Divide\n")
+		"4. Divide\n"\
+		"5. TestLinlang\n")
 
 
 # Take input from the user
